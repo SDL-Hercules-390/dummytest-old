@@ -1,1 +1,3 @@
 bob testing commit and push of a file, via SmartGit
+
+This line was added via SmartGit using a new OAuth token.
