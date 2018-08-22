@@ -29,4 +29,3 @@ C:\common\github\dummytest>git commit
 
 
 Also used SmartGit 18.4 to update this file  
-
